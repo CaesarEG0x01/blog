@@ -11,3 +11,14 @@ border-radius: 0px;
 
 }
 
+.imagecaesar {
+  
+  height: 200px;border-radius: 100px;box-shadow: 1px 1px 4px;
+  
+}
+
+.imagecaesar:hover {
+  
+  height: 200px;border-radius: 100px;box-shadow: 1px 1px 10px;
+  
+}
