@@ -39,7 +39,7 @@ border-radius: 0px;
   border: 1px solid #black;
   background-color: #222;
   width: 30%;
-  height: 500px;
+  height: 600px;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -75,7 +75,7 @@ border-radius: 0px;
   border: 1px solid #black;
   width: 70%;
   border-left: none;
-  height: 500px;
+  height: 600px;
 }
 body, html {
     height: 100%;
