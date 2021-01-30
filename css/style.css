@@ -10,6 +10,15 @@ border-radius: 0px;
   background-color: black;color: white;width: 200px;height: 40px;padding: 10px;border: 1px solid black;
 
 }
+.socialcaesar1 {
+  background-color: white;color: black;width: 200px;height: 40px;padding: 10px;border: 1px solid white;
+
+}
+
+.socialcaesar1:hover {
+  background-color: black;color: white;width: 200px;height: 40px;padding: 10px;border: 1px solid white;
+
+}
 
 .imagecaesar {
   
@@ -30,7 +39,7 @@ border-radius: 0px;
   border: 1px solid #black;
   background-color: #222;
   width: 30%;
-  height: 300px;
+  height: 500px;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -66,7 +75,7 @@ border-radius: 0px;
   border: 1px solid #black;
   width: 70%;
   border-left: none;
-  height: 300px;
+  height: 500px;
 }
 body, html {
     height: 100%;
@@ -78,7 +87,7 @@ body, html {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../security.png");
 
   /* Set a specific height */
-  height: 50%;
+  height: 100%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
