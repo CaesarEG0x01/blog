@@ -49,8 +49,8 @@ border-radius: 0px;
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: currentColor;
-  color:white;
+  background-color: white;
+  color:black;
 }
 
 /* Create an active/current "tab button" class */
