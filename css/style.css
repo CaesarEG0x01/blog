@@ -3,7 +3,7 @@ body {
 }
 .navbar {
 border-radius: 0px;
-border-top 5px solid brown;
+border-top: 5px solid brown;
 }
 .socialcaesar {
   background-color: white;color: black;width: 200px;height: 40px;padding: 10px;border: 1px solid white;
