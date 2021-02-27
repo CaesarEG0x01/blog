@@ -26,6 +26,15 @@ border-top: 5px solid brown;
   background-color: black;color: white;width: 200px;height: 40px;padding: 10px;border: 1px solid white;
 
 }
+.socialcaesar2 {
+  background-color: white;color: black;width: 500px;height: 40px;padding: 10px;border-bottom: 1px solid white;
+
+}
+
+.socialcaesar2:hover {
+  background-color: black;color: white;width: 500px;height: 40px;padding: 10px;border-bottom: 1px solid white;
+
+}
 
 .imagecaesar {
   
